@@ -8,6 +8,7 @@
         "provincia": "Buenos Aires",
         "codigo_postal": "1650",
         "activa": true
+        "posee_taller": true
     },
     {
         "id": 2,
@@ -18,6 +19,7 @@
         "provincia": "Buenos Aires",
         "codigo_postal": "1663",
         "activa": true
+        "posee_taller": true
     },
     {
         "id": 3,
@@ -28,6 +30,7 @@
         "provincia": "Buenos Aires",
         "codigo_postal": "1662",
         "activa": true
+        "posee_taller": false
     },
     {
         "id": 4,
@@ -38,6 +41,7 @@
         "provincia": "Buenos Aires",
         "codigo_postal": "1661",
         "activa": false
+        "posee_taller": false
     },
     {
         "id": 5,
@@ -48,5 +52,6 @@
         "provincia": "Buenos Aires",
         "codigo_postal": "2424",
         "activa": true
+        "posee_taller": true
     }
 ]
