@@ -7,7 +7,7 @@
         "localidad": "San Martin",
         "provincia": "Buenos Aires",
         "codigo_postal": "1650",
-        "activa": true
+        "activa": true,
         "posee_taller": true
     },
     {
@@ -18,7 +18,7 @@
         "localidad": "Jose C. Paz",
         "provincia": "Buenos Aires",
         "codigo_postal": "1663",
-        "activa": true
+        "activa": true,
         "posee_taller": true
     },
     {
@@ -29,7 +29,7 @@
         "localidad": "Muniz",
         "provincia": "Buenos Aires",
         "codigo_postal": "1662",
-        "activa": true
+        "activa": true,
         "posee_taller": false
     },
     {
@@ -40,7 +40,7 @@
         "localidad": "Hurlingham",
         "provincia": "Buenos Aires",
         "codigo_postal": "1661",
-        "activa": false
+        "activa": false,
         "posee_taller": false
     },
     {
@@ -51,7 +51,7 @@
         "localidad": "Devoto",
         "provincia": "Buenos Aires",
         "codigo_postal": "2424",
-        "activa": true
+        "activa": true,
         "posee_taller": true
     }
 ]
