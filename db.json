@@ -74,7 +74,7 @@
         "provincia": "Santa Fe",
         "codigo_postal": "3000",
         "activa": true,
-        "posee_taller": true
+        "posee_taller": false
     },
     {
         "id": 8,
