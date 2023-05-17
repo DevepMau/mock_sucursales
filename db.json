@@ -53,5 +53,38 @@
         "codigo_postal": "2424",
         "activa": true,
         "posee_taller": true
+    },
+    {
+        "id": 6,
+        "nombre": "Sucursal Rosario",
+        "calle": "Av. Pellegrini.",
+        "numero": "800",
+        "localidad": "Rosario",
+        "provincia": "Santa Fe",
+        "codigo_postal": "2000",
+        "activa": true,
+        "posee_taller": true
+    },
+    {
+        "id": 7,
+        "nombre": "Sucursal Santa Fe",
+        "calle": "Av. Aristóbulo del Valle.",
+        "numero": "2000",
+        "localidad": "Santa Fe",
+        "provincia": "Santa Fe",
+        "codigo_postal": "3000",
+        "activa": true,
+        "posee_taller": true
+    },
+    {
+        "id": 8,
+        "nombre": "Sucursal Villa Carlos Paz",
+        "calle": "Av. San Martín",
+        "numero": "1000",
+        "localidad": "Villa Carlos Paz",
+        "provincia": "Cordoba",
+        "codigo_postal": "5152",
+        "activa": true,
+        "posee_taller": true
     }
 ]
