@@ -1,0 +1,37 @@
+[
+  {
+        "id": 1,
+        "nombre": "Comision001",
+        "valor": "15",
+        "id_categoria": "7",
+        "activa": true,
+  },
+  {
+        "id": 2,
+        "nombre": "Comision002",
+        "valor": "12",
+        "id_categoria": "3",
+        "activa": true,
+  },
+  {
+        "id": 3,
+        "nombre": "Comision003",
+        "valor": "5",
+        "id_categoria": "1",
+        "activa": true,
+  },
+  {
+        "id": 4,
+        "nombre": "Comision004",
+        "valor": "12",
+        "id_categoria": "5",
+        "activa": false,
+  },
+  {
+        "id": 5,
+        "nombre": "Comision005",
+        "valor": "10",
+        "id_categoria": "2",
+        "activa": true,
+  },
+]
